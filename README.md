@@ -1,6 +1,8 @@
 # lmadurh2
 2SLS-IV Autocorrelation Dynamic Durbin h, Harvey LM, and Wald Tests Use lmadurh2 With STATA 19
 
+https://www.youtube.com/watch?v=tZ7Wt6LdjRc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
